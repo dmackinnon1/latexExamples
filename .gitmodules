@@ -1,0 +1,3 @@
+[submodule "zenaphorisms"]
+	path = zenaphorisms
+	url = git@github.com:dmackinnon1/zenaphorisms.git
